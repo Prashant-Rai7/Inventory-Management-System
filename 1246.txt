@@ -1,0 +1,16 @@
+	Welcome Fast Bill Retail
+
+ Bill No. : 1246
+ Customer Name : Anand Rai
+ Phone Number : 9854684645
+=======================================
+ Products		QTY		Price
+=======================================
+ Food Oil		23		4140
+ Sprite		23		920
+---------------------------------------
+ Grocery Tax			Rs. 414.0
+ Cold Drinks Tax		Rs. 46.0
+ Total Bill :			Rs. 5520.0
+---------------------------------------
+

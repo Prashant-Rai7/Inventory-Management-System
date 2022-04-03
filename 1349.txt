@@ -1,0 +1,16 @@
+	Welcome Fast Bill Retail
+
+ Bill No. : 1349
+ Customer Name : Prashant Rai
+ Phone Number : 4214684645
+=======================================
+ Products		QTY		Price
+=======================================
+ Food Oil		23		4140
+ Sprite		23		920
+---------------------------------------
+ Grocery Tax			Rs. 414.0
+ Cold Drinks Tax		Rs. 46.0
+ Total Bill :			Rs. 5520.0
+---------------------------------------
+
